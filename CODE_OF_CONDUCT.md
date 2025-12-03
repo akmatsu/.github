@@ -1,9 +1,9 @@
 # Code of Conduct
 
-**TL;DR:** Stay on topic and don't be a jerk. This space is for working on the projects hosted here. Other discussions are not approriate.
+**TL;DR:** Stay on topic and don't be a jerk. This space is for working on the projects hosted here. Other discussions are not appropriate.
 
 ## Scope
-This code of conduct applies to on-topic development channels of the project, includling but not limited to:
+This code of conduct applies to on-topic development channels of the project, including but not limited to:
 - Bug trackers.
 - Development repositories.
 - Mailing lists.
