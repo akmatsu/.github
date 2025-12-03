@@ -1,4 +1,4 @@
-# Contributor Covenant Code of Conduct
+# Code of Conduct
 
 **TL;DR:** Stay on topic and don't be a jerk. This space is for working on the projects hosted here. Other discussions are not approriate.
 
