@@ -9,7 +9,7 @@ This code of conduct applies to on-topic development channels of the project, in
 - Mailing lists.
 - Any other communication method for development of software.
 
-Behavior outside projects spaces is only relevant if it directly disrupts collaboration. We do not enforce this code of conduct based on personal opinions expressed outside project spaces.
+This code of conduct is only applicible to behavior outside project spaces is if it directly disrupts collaboration. We do not enforce this code of conduct based on personal opinions expressed outside project spaces.
 
 Off-topic channels are subject to their own rules and guidelines.
 
@@ -20,9 +20,12 @@ We expect all users to stay on-topic while using development channels.
 We will not accept the following:
 - Stalking and witchhunting
 - Doxing
-- prolonged arguments or off-topic debates.
+- Prolonged arguments or off-topic debates.
 - Ad hominems
 - Attempts to flame or derail communication
 - Trolling and Troll Feeding
 
 If you see misbehaviour, ignore the person(s) and speak with a moderator or administrator.
+
+## Why this exists
+This code of conduct exists to keep this space focused and productive. It is a general guide and a warning: disruptive behavior and distractions won't be tolerated.
