@@ -22,7 +22,7 @@ When submitting a pull request:
 - Reference related issues, if any.
 - Ensure tests pass before submitting.
 
-### 5. Reporting Issues
+## Reporting Issues
 
 - Please open an issue.
 
