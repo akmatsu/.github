@@ -9,7 +9,7 @@ This code of conduct applies to on-topic development channels of the project, in
 - Mailing lists.
 - Any other communication method for development of software.
 
-This code of conduct is only applicible to behavior outside project spaces is if it directly disrupts collaboration. We do not enforce this code of conduct based on personal opinions expressed outside project spaces.
+This code of conduct is only applicible to behavior outside project spaces if it directly disrupts collaboration. We do not enforce this code of conduct based on personal opinions expressed outside project spaces.
 
 Off-topic channels are subject to their own rules and guidelines.
 
